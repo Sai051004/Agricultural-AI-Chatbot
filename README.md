@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered chatbot solution designed specifically for farmers, providing 24/7 agricultural support, multilingual assistance, and real-time guidance on farming practices, government schemes, and agricultural best practices.
 
-![Farmer Support ChatBot](https://github.com/adil200/Farmer-Support-ChatBot/assets/75264739/5dcf78d5-e627-4b6f-9174-56ea06431021)
+![Farmer Support ChatBot](https://github.com/Sai051004/Agricultural-AI-Chatbot/blob/main/Screenshot%202025-12-06%20114248.png)
 
 ## 📋 Table of Contents
 
