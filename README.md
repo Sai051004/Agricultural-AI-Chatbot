@@ -17,7 +17,6 @@ A comprehensive AI-powered chatbot solution designed specifically for farmers, p
 - [Deployment](#deployment)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
